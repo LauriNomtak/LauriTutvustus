@@ -1,3 +1,30 @@
 body {
-    background-color: aquamarine;
+    background-color: grey;
+    background-image: url("http://www.design4you.netpeople.ch/back.jpg");
+}
+
+img {
+    float: right;
+    margin: 0 0 10px 10px;
+
+}
+
+#one {
+    text-decoration: underline;
+}
+
+#kolm {
+    color: white;
+    text-shadow: 2px 2px #ff0000;
+    font-family: "Times New Roman", Georgia, Serif;
+}
+
+#two {
+    box-shadow: 10px 10px 5px #1314ff;
+    text-shadow: 2px 2px #ff0000;
+    width: 150px;
+    padding: 25px;
+    border: 15px solid navy;
+    margin: 25px;
+    cursor: wait;
 }
